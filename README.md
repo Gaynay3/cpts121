@@ -1,2 +1,3 @@
 # cpts121
-Readme and resume
+Gaynay Doo
+gaynay.doo@wsu.edu
